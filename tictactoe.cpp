@@ -1,9 +1,6 @@
 /*
 Benjamin Lipscomb
-Michelle Fernandez
-CSCI240 Intro to Software Engineering
-Dr. Xuwei Liang
-Assignment 2 Bonus
+25 March 2016
 
 Input: The user creates an array of 9 characters. The user inputs characters X or O which alternate
 between turns. Once all characters in the array have been filled, the game ends.
